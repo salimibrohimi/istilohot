@@ -11,7 +11,7 @@ Dictionaries/Translators we're using:
   * [Sahifa](https://sahifa.tj)
 
 There is a tab delimited file [istilohot.tsv](istilohot.tsv) which has four fields:
-- ENGLISH - add a term in English,
-- DEFINITION (EN) - add a term definition in English or a URL,
-- TAJIK - add a term in Tajik, and
-- DEFINITION (TG) - add a term definition in Tajik or a URL.
+- ENGLISH - a term in English,
+- DEFINITION (EN) - a term definition in English or a URL,
+- TAJIK - a term in Tajik, and
+- DEFINITION (TG) - a term definition in Tajik or a URL.
