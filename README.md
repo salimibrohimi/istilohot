@@ -9,8 +9,8 @@ Dictionaries/Translators we're using:
 - Tajik:
   * [Vazhaju](https://vazhaju.tj)
   * [Sahifa](https://sahifa.tj)
-  
-There is a pipe (`|`) delimited file [istilohot.csv](istilohot.csv) which has four fields:
+
+There is a tab delimited file [istilohot.tsv](istilohot.tsv) which has four fields:
 - ENGLISH - add a term in English,
 - DEFINITION (EN) - add a term definition in English or a URL,
 - TAJIK - add a term in Tajik, and
