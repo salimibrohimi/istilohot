@@ -3,7 +3,7 @@ In this repository, we will try to collect the IT terminology in the Tajik langu
 
 Dictionaries/Translators we're using:
 - English:
-  * [Caambridge Dictionary](https://dictionary.cambridge.org)
+  * [Cambridge Dictionary](https://dictionary.cambridge.org)
   * [Merriam-Webster Dictionary](https://www.merriam-webster.com)
   * [Google Translate](https://translate.google.com)
 - Tajik:
