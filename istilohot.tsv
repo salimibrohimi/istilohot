@@ -2,6 +2,7 @@ ENGLISH	DEFINITION (EN)	TAJIK	DEFINITION (TG)
 application	https://www.merriam-webster.com/dictionary/application	корбурд	барномаи роёнаӣ (ба монанди вожапардоз ё ҷадвали электронӣ), ки вазифа ё маҷмӯъи вазифаҳои махсусро иҷро мекунад
 artificial intelligence	https://www.merriam-webster.com/dictionary/artificial%20intelligence	зеҳни сунъӣ, ҳуши маснӯъӣ	қобилияти мошин, ки рафтори оқилонаи инсонро тақлид мекунад
 augmented reality	https://www.merriam-webster.com/dictionary/augmented%20reality	воқеъияти афзуда	навъи мукаммали воқеъият, ки бо корбасти фанноварии пӯшонидани иттилооти рақамӣ бар тасвири чизе, ки тавассути дастгоҳ дида мешавад (ба монанди камераи смартфон) сохта шудааст
+big data	https://www.merriam-webster.com/dictionary/big%20data	додаҳои калон	ҷамъшавии додаҳо, ки барои коркард тавассути воситаҳои идоракунии додагони анъанавӣ бениҳоят калон ва печида аст
 bug	https://dictionary.cambridge.org/dictionary/english/bug	нуқсон	хатогӣ ё монеа дар барномаи роёнаӣ
 compiler	https://www.merriam-webster.com/dictionary/compiler	мутарҷим	https://vazhaju.tj/search/%D0%BC%D1%83%D1%82%D0%B0%D1%80%D2%B7%D0%B8%D0%BC
 computer	https://www.merriam-webster.com/dictionary/computer	роёна	https://vazhaju.tj/search/%D1%80%D0%BE%D1%91%D0%BD%D0%B0
@@ -23,3 +24,4 @@ software	https://dictionary.cambridge.org/dictionary/english/software	нарма
 source code	https://www.merriam-webster.com/dictionary/source%20code	коди сарчашма	барномаи роёнаӣ дар забони барноманависии аслиаш (ба монанди FORTRAN ё C) пеш аз тарҷумаи он (одатан тавассути мутарҷим) ба коди объектӣ
 user interface	https://www.merriam-webster.com/dictionary/user%20interface	восити корбар	нармафзоре, ки ба корбари роёна имкон медиҳад, ки бо сомонаи омили мошин ё сомона муошират кунад (ба монанди тавассути интихоб кардани гузинаҳои пешниҳодшуда ё ворид кардани фармонҳои матнӣ)
 virtual reality	https://www.merriam-webster.com/dictionary/virtual%20reality	воқеъияти маҷозӣ	муҳити сунъӣ, ки тавассути ангезаҳои ҳассос (ба монанди диданиҳо ва садоҳо), ки аз ҷониби роёна таъмин карда мешаванд, эҳсос карда мешавад ва дар он аъмоли шахс қисман муайян мекунад, ки дар муҳит чӣ рӯй диҳад
+virtualization	https://dictionary.cambridge.org/dictionary/english/virtualization	маҷозсозӣ	раванди сохтани навъи маҷозии як қисми сахтафзор ё нармафзори роёна
